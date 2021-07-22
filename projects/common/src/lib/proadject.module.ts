@@ -19,10 +19,10 @@ import { MouseMoveDirective } from './directives/mouse-move.directive';
     BrowserAnimationsModule
   ],
   exports: [
-   
+    MouseMoveDirective
   ],
   entryComponents: [
-   
+  
   ]
 })
 export class ProadjectModule {
